@@ -8,3 +8,11 @@
 
 **3.Explain REPL in Node.js?**
 - REPL stands for Read Eval Print Loop. REPL performs tasks related to reading, executing, printing, and looping. The server contains several ad-hoc Java statements that REPL can help execute. With REPL, the JavaScript can enter the shell post directly and reliably perform tasks like debugging, testing, and experimenting.
+
+**4.What are the modules in Node.js?**
+- HTTP
+- fs
+- url
+
+**5.Which database is more popularly used with Node.js?**
+- MongoDB is the most common database used with Node.js. It is a NoSQL

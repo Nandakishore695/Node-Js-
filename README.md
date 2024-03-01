@@ -13,6 +13,7 @@
 - HTTP
 - fs
 - url
+- os
 
 **5.Which database is more popularly used with Node.js?**
 - MongoDB is the most common database used with Node.js. It is a NoSQL

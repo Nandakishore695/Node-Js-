@@ -20,3 +20,7 @@
 
 **6.Full form of CLI?**
 - command line interface
+
+**7.What can Node.js Do?**
+- Node.js can create, open, read, write, delete, and close files on the server
+- Node.js can add, delete, modify data in your database

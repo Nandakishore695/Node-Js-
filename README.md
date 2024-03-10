@@ -17,3 +17,6 @@
 
 **5.Which database is more popularly used with Node.js?**
 - MongoDB is the most common database used with Node.js. It is a NoSQL
+
+**6.Full form of CLI?**
+- command line interface

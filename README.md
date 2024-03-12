@@ -1,4 +1,5 @@
-# Node JS Interview Question
+![image](https://github.com/Nandakishore695/Node-Js-/assets/104244494/5e48a78a-6b6b-451d-851f-b6e2e8a102e4)# Node JS Interview Question
+
 
 **1.What is node.js?**
 - Node.js is a JavaScript Runtime Environment. It is used to create server-side web applications.
@@ -17,7 +18,7 @@
 
 **5.Which database is more popularly used with Node.js?**
 - MongoDB is the most common database used with Node.js. It is a NoSQL
-
+![Uploading image.png…]()
 **6.Full form of CLI?**
 - command line interface
 
